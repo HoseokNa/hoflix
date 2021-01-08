@@ -32,7 +32,7 @@
       "react-app/jest"
     ]
   },
-  "homepage": "https://hoseokna.github.io/hoflix",
+  "homepage": "https://happy-wing-2a5837.netlify.app/",
   "browserslist": {
     "production": [
       ">0.2%",
